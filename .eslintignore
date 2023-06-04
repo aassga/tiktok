@@ -1,0 +1,8 @@
+build/*.js
+src/assets
+.DS_Store
+node_modules
+/dist
+public
+dist
+src
